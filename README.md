@@ -1,3 +1,3 @@
 # Supervised Learning Regression Analysis
 
-Using different types of regression analysis for continuous variable  using the Scikit-learn library.
+Using different types of regression analysis for the continuous variable  using the Scikit-learn library.
